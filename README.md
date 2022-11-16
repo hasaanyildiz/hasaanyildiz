@@ -5,13 +5,12 @@
 
 ### FOLLOW ME
 [![Linkedin: hasanyildiiz](https://img.shields.io/badge/-hasanyildiiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanyildiiz/)](https://www.linkedin.com/in/hasanyildiiz/)
-[![Instagram: akkocdesign](https://img.shields.io/badge/-akkocdesign-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/akkocdesign/)](https://instagram.com/akkocdesign/)
-![githubfollow](https://img.shields.io/github/followers/erkanakkoc?label=Github&style=social)
-![GitHub stars](https://img.shields.io/github/stars/erkanakkoc?style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=erkanakkoc.erkanakkoc)
+![githubfollow](https://img.shields.io/github/followers/hasaanyildiz?label=Github&style=social)
+![GitHub stars](https://img.shields.io/github/stars/hasaanyildiz?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=hasaanyildiz.hasaanyildiz)
 ---
-![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erkanakkoc&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkanakkoc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Erkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaanyildiz&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaanyildiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### LANGUAGES & FRAMEWORKS
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>&nbsp;&nbsp;<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&nbsp;&nbsp;<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;
 </p>
