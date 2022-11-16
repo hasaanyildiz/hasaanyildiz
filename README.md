@@ -4,7 +4,7 @@
 
 
 ### FOLLOW ME
-[![Linkedin: erkanakkoc](https://img.shields.io/badge/-erkanakkoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erkanakkoc/)](https://www.linkedin.com/in/erkanakkoc/)
+[![Linkedin: hasanyildiiz](https://img.shields.io/badge/-erkanakkoc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanyildiiz/)](https://www.linkedin.com/in/hasanyildiiz/)
 [![Instagram: akkocdesign](https://img.shields.io/badge/-akkocdesign-red?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/akkocdesign/)](https://instagram.com/akkocdesign/)
 ![githubfollow](https://img.shields.io/github/followers/erkanakkoc?label=Github&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/erkanakkoc?style=social)
