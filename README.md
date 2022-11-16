@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Hasan Yıldız</h1>
-<h3 align="center">I am studying hard to becoming a good software developer.</h3>
-<h3 align="center">I am studying hard to becoming a good developer. I'm interested in AI and Wearable Technologies.</h3>
-
+<h3 align="center">I am studying hard to becoming a good DevOps & Cloud Engineer.</h3>
 
 ### FOLLOW ME
 [![Linkedin: hasanyildiiz](https://img.shields.io/badge/-hasanyildiiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasanyildiiz/)](https://www.linkedin.com/in/hasanyildiiz/)
